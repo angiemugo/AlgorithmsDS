@@ -6,4 +6,5 @@ var str = "Hello, playground"
 
 public indirect enum BinaryTree<T> {
     case node(BinaryTree)
+
 }
